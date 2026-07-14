@@ -139,8 +139,6 @@ python main.py
 
 ![Transaction History](transaction.png)
 
-> **Tip:** Add clear screenshots to make your GitHub repository more attractive and easier to understand.
-
 ---
 
 # 📚 Learning Concepts
