@@ -298,13 +298,14 @@ Your support motivates me to continue learning and building more open-source pro
 
 I am continuously working on new Python projects, including:
 
-* Scholarship Applicant Evaluation System
-* Smart Manufacturing Resource Planning System
-* Student Management System
-* Inventory Management System
-* Data Analysis Projects
-* Machine Learning Projects
-* AI & LLM Engineering Projects
+- ✅ Mini Banking System
+- ✅ Scholarship Applicant Evaluation System
+- ⏳ CPU Scheduling Simulator
+- ⏳ Algorithm Visualizer
+- ⏳ Smart Manufacturing Resource Planning System (SMRPS)
+- 📈 Data Analysis Projects
+- 🤖 Machine Learning Projects
+- 🧠 AI & LLM Engineering Projects
 
 Stay tuned for more updates!
 
