@@ -119,25 +119,24 @@ python main.py
 
 ## 🔑 Login Screen
 
-screenshots/deposit.png
-
+![Login](screenshots/login.png)
 ---
 
 ## 💰 Deposit Money
 
-screenshots/deposit.png
+![Deposit](screenshots/deposit.png)
 
 ---
 
 ## 💸 Withdraw Money
 
-screenshots/withdraw.png
+![Withdraw](screenshots/withdraw.png)
 
 ---
 
 ## 📜 Transaction History
 
-screenshots/transaction.png
+![Withdraw](screenshots/transaction.png)
 
 ---
 
