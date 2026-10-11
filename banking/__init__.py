@@ -1,0 +1,1 @@
+"""Banking package: data, authentication, menu and operations."""
